@@ -1,7 +1,7 @@
 {
   "name": "multi-language-react",
   "version": "0.1.0",
-  "homepage": "https://Rahil-018.github.io/Mult-language-app",
+  "homepage": "https://Rahil-018.github.io/Multi-language-app",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
