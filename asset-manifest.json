@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/multi-language-support-ap/static/css/main.919574fd.css",
-    "main.js": "/multi-language-support-ap/static/js/main.47f6f450.js",
-    "static/js/787.7dfff90e.chunk.js": "/multi-language-support-ap/static/js/787.7dfff90e.chunk.js",
-    "index.html": "/multi-language-support-ap/index.html",
-    "main.919574fd.css.map": "/multi-language-support-ap/static/css/main.919574fd.css.map",
-    "main.47f6f450.js.map": "/multi-language-support-ap/static/js/main.47f6f450.js.map",
-    "787.7dfff90e.chunk.js.map": "/multi-language-support-ap/static/js/787.7dfff90e.chunk.js.map"
+    "main.css": "/multi-language-support-app/static/css/main.89f4c2a5.css",
+    "main.js": "/multi-language-support-app/static/js/main.84a25d51.js",
+    "static/js/787.7dfff90e.chunk.js": "/multi-language-support-app/static/js/787.7dfff90e.chunk.js",
+    "index.html": "/multi-language-support-app/index.html",
+    "main.89f4c2a5.css.map": "/multi-language-support-app/static/css/main.89f4c2a5.css.map",
+    "main.84a25d51.js.map": "/multi-language-support-app/static/js/main.84a25d51.js.map",
+    "787.7dfff90e.chunk.js.map": "/multi-language-support-app/static/js/787.7dfff90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.919574fd.css",
-    "static/js/main.47f6f450.js"
+    "static/css/main.89f4c2a5.css",
+    "static/js/main.84a25d51.js"
   ]
 }
