@@ -24,7 +24,7 @@ const Languageoption = (props) => {
                     </svg></Link>
                 </li>
                 <div >
-                    <select  onChange={props.onChange}>
+                    <select onChange={props.onChange}>
                         <option>Select Language</option>
                         <option value={'en'}>English</option>
                         <option value={'chi'}>Chinese</option>

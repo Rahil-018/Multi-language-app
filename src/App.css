@@ -18,19 +18,14 @@ select {
   background: linear-gradient(to right, #e8cbc0, #636fa4);
 }
 
-option {
-  padding: 5px;
-  font-size: 16px;
-}
-
 select:hover {
-  background-color: #f0f0f0;
+  background-color: #ececec;
 }
 
 select:focus {
   outline: none;
   border-color: #007bff;
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(132, 151, 170, 0.25);
 }
 
 
@@ -155,4 +150,9 @@ color: #868c96;
 footer p {
 padding: 40px 0;
 text-align: center;
+}
+
+.nav-item:hover{
+  background-color: #a4ccf7;
+  font-size: 30px;
 }
